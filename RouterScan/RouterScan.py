@@ -121,7 +121,8 @@ def iprange():
      
 if __name__ == '__main__':
     if len(sys.argv) != 5:
-        print 'Example: ./router.py 127.0.0.1 127.0.0.5 root root'
+        print 'Usage: ./RouterScan.py <start_ip> <end_ip> <user> <pass>'
+        print 'Example: ./RouterScan.py 127.0.0.1 127.0.0.5 root root'
         sys.exit(1)
     else:
         iprange()
