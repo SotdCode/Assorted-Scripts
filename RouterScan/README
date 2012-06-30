@@ -1,0 +1,3 @@
+RouterScan.py
+
+Checks for routers running SSH with default login details e.g. root:root or root:admin.

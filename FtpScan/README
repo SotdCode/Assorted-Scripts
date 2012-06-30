@@ -1,0 +1,3 @@
+FtpScan.py
+
+Checks ip's within a given range for FTP servers allowing Anonymous Login.
